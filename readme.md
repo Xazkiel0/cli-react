@@ -123,7 +123,7 @@ Create a functional component
 Create a component with css
 >```rct gc <ComponentName> -s``` <b>or</b> ```rct gc <ComponentName> --style```
 
-Create a component and make it an oberserver
+Create a component and make it an observer
 >```rct gc <ComponentName> -o``` <b>or</b> ```rct gc <ComponentName> --observable```
 
 Create a component but don't wrap it in a folder
